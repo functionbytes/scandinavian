@@ -11,5 +11,5 @@ Cómo iniciar la aplicación
 5.	composer install
 6.	npm install
 7.	php artisan key:generate
-8.	Migrar y sembrar la base de datos con: php artisan migrate:fresh –seed 
+8.	Migrar y sembrar la base de datos con: php artisan migrate:fresh --seed
 9.	Finalmente, ejecute el comando: php artisan serve
